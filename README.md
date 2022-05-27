@@ -106,7 +106,7 @@ api/search/local/a?cep=01001000
 php artisan test
 ~~~
 
-- Também acrescentei um teste na qualidade do software
+- Também acrescentei um teste na qualidade do software\
 <img src="https://i.ibb.co/tpQRZ3W/Screenshot-from-2022-05-25-23-47-59.png"
  width="400" alt="Qualidade de Software">
 ~~~sh
