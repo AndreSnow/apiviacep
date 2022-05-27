@@ -16,8 +16,6 @@
 
 <h2 align="center">Sobre</h2>
 
----
-
 Essa api foi desenvolvida para buscar o cep utilizando o ViaCep.
 
 Documentação no [postman](https://documenter.getpostman.com/view/14026033/Uz5ArJQf)
